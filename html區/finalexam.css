@@ -1,0 +1,77 @@
+h1 {
+    color: aqua;
+    position: relative;
+    transform: translate(0, -50%);
+    top: 80px;
+    font-size: 500%;
+    font-family: STKaiti;
+}
+#header {
+    background-color:black;
+    height: 150px;
+    width: 100%;
+    position: relative;
+    margin-top: -54px;
+    text-align: center;
+}
+#selfid {
+    width: 44%; 
+    height: 570px;
+    float:left;
+    background: linear-gradient(to right top, aquamarine 0%, aqua 100%);
+    padding-left: 3%;
+    padding-right: 3%;
+}
+h2 {
+    font-size: 300%;
+    position: relative;
+    transform: translate(5%,0);
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 3%;
+    text-align: center;
+}
+#titlegame {
+    height: 70px;
+    width: 50%;
+    float: left;
+    background: linear-gradient(to right, aqua 0%, rgb(222, 115, 222) 100%);
+}
+#littlegame {
+    width: 50%; 
+    height: 500px;
+    float: left;
+    background: linear-gradient(to right, rgb(64,255,234) 0%, rgb(222, 115, 222) 100%);
+}
+p,li {
+    font-size: 150%;
+    font-family: DFKai-SB;
+    position: relative;
+    margin: 3%;
+}
+
+h3 {
+    font-size: 200%;
+    position: relative;
+    left: 5%;
+    margin-top: 12px;
+}
+
+#mypic{
+    position: absolute;
+    margin: 3%;
+    right: 50%;
+}
+#rick0{
+    max-width: 100%;
+    height: auto;
+}
+#ico{
+    max-width: 100%;
+    height: auto;
+}
+#bottom{
+    height: max-content;
+    width: 100%;
+    background: linear-gradient(to left, aquamarine 0%, rgb(222, 115, 222) 100%);
+}
